@@ -1,0 +1,8 @@
+{
+  "name": "Display App Switch",
+  "description": "Makes window switcher only switch between windows on the current display",
+  "uuid": "display-app-switch@lukasw.dev",
+  "shell-version": [
+    "42"
+  ]
+}
